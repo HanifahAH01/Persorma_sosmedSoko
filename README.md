@@ -1,6 +1,22 @@
 # Persorma_sosmedSoko_Instagram
 
-<img width="1762" height="844" alt="image" src="https://github.com/user-attachments/assets/34ae3dd1-603e-4498-ab00-dc82743a40ae" />
-<img width="1778" height="796" alt="image" src="https://github.com/user-attachments/assets/664fc475-a5cd-4074-948f-19cd5e218b25" />
-<img width="1784" height="799" alt="image" src="https://github.com/user-attachments/assets/3e9d0814-ca06-45fc-9474-827d4bc09cc1" />
+<img width="1745" height="860" alt="image" src="https://github.com/user-attachments/assets/94e4d61c-8320-474d-901d-3ca87a3cad76" />
+
+<img width="1766" height="810" alt="image" src="https://github.com/user-attachments/assets/747658ee-0f39-45d9-ab03-ba5dd3087199" />
+
+<img width="1747" height="795" alt="image" src="https://github.com/user-attachments/assets/f932a9c8-9465-40a9-91d8-59b7feb60244" />
+
+
+# Run
+>> 1.	Membuat Environment: python -m venv venv
+>> 2.	Mengaktifkan Envirotment: venv\Scripts\activate
+>> 3.	install setuptools: pip install --upgrade pip setuptools, python.exe -m pip install --upgrade pip
+>> 4.	Install semua dependensi: pip install streamlit pandas seaborn matplotlib plotly pandas-datareader
+>> 5.	Jalankan: Streamlit run app.py
+
+
+
+
+
+
 
