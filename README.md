@@ -6,6 +6,15 @@
 
 >> <img width="1747" height="795" alt="image" src="https://github.com/user-attachments/assets/f932a9c8-9465-40a9-91d8-59b7feb60244" />
 
+# Persorma_sosmedSoko_Linkedin
+
+>> <img width="1778" height="871" alt="image" src="https://github.com/user-attachments/assets/dac5ca4a-ba28-48de-9325-886514156223" />
+
+>> <img width="1787" height="958" alt="image" src="https://github.com/user-attachments/assets/efe3b2c8-2f6c-47f9-8ef6-bae7c5063858" />
+
+>> <img width="1805" height="893" alt="image" src="https://github.com/user-attachments/assets/019039d0-3221-4624-950d-52905d4ef4ad" />
+
+
 
 # Run
 >> 1.	Membuat Environment: python -m venv venv
