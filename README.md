@@ -16,7 +16,7 @@
 
 
 
-Run
+# Run
 > 1.	Membuat Environment: python -m venv venv
 > 2.	Mengaktifkan Envirotment: venv\Scripts\activate
 > 3.	install setuptools: pip install --upgrade pip setuptools, python.exe -m pip install --upgrade pip
