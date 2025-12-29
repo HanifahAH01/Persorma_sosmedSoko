@@ -1,6 +1,6 @@
 # Persorma_sosmedSoko_Instagram
 
->> <img width="1745" height="860" alt="image" src="https://github.com/user-attachments/assets/94e4d61c-8320-474d-901d-3ca87a3cad76" />
+> <img width="1745" height="860" alt="image" src="https://github.com/user-attachments/assets/94e4d61c-8320-474d-901d-3ca87a3cad76" />
 
 >> <img width="1766" height="810" alt="image" src="https://github.com/user-attachments/assets/747658ee-0f39-45d9-ab03-ba5dd3087199" />
 
