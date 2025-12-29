@@ -184,12 +184,9 @@ st.divider()
 # NAVIGASI TOMBOL
 # ======================
 if "active_tab" not in st.session_state:
-    st.session_state.active_tab = "data_awal"
+    st.session_state.active_tab = "distribusi"
 
-b1, b2, b3, b4 = st.columns(4)
-#with b1:
- #   if st.button("📄 Data Awal"):
-  #      st.session_state.active_tab = "data_awal"
+b2, b3, b4 = st.columns(4)
 with b2:
     if st.button("📊 Distribusi Reaksi"):
         st.session_state.active_tab = "distribusi"
@@ -201,17 +198,6 @@ with b4:
         st.session_state.active_tab = "tren"
 
 st.divider()
-
-# ======================
-# TAB: DATA AWAL
-# ======================
-#if st.session_state.active_tab == "data_awal":
- #   st.subheader("📄 Data Awal LinkedIn")
-  #  st.dataframe(
-   #     df_clean.head(50),
-    #    width="stretch",
-     #   height=550
-    #)
 
 # ======================
 # TAB: DISTRIBUSI
